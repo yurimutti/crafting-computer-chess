@@ -25,4 +25,4 @@ experiments/     isolated, reproducible benchmarks and investigations
 
 Each area has its own `README.md` describing its scope. This is the full study map, not a phased or deferred plan — areas are populated as study reaches them.
 
-See `AGENTS.md` for the principles guiding work in this repo.
+See `.agents/AGENTS.md` for the principles guiding work in this repo.
